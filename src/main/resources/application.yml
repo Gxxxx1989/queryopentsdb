@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+opentsdb:
+  url: http://192.168.155.44
+  port: 4242
